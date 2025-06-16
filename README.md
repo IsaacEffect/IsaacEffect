@@ -6,6 +6,10 @@
 
 ###
 
+<img align="right" height="250" src="https://media.tenor.com/iviIq2uXz-kAAAAi/work-office.gif" />
+
+###
+
 <p align="left">
 ✨ I'm a software developer in training with hands-on experience primarily in Java and C#. I've worked on academic and personal projects that emphasize best practices and well-organized code. Currently, I’m focusing on software architecture, learning how to design scalable, clean, and maintainable systems.
 
