@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" width="300" src="https://media.tenor.com/iviIq2uXz-kAAAAi/work-office.gif" alt="working gif"  />
+<img align="right" width="250" src="https://media.tenor.com/iviIq2uXz-kAAAAi/work-office.gif" alt="working gif"  />
 
 ###
 
