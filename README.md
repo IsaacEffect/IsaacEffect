@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="250" src="https://media.tenor.com/iviIq2uXz-kAAAAi/work-office.gif"  />
+<img align="right" width="250" src="https://media.tenor.com/iviIq2uXz-kAAAAi/work-office.gif"  />
 
 ###
 
@@ -38,18 +38,21 @@
 
 <h2>📊 Github Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsaacEffect&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IsaacEffect&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=github_dark&hide_border=false&order=2" height="200" alt="languages graph" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=IsaacEffect&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" />
-</p>
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=IsaacEffect&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IsaacEffect&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=github_dark&hide_border=false&order=2" height="200" alt="languages graph" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=IsaacEffect&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" />
+    </td>
+  </tr>
+</table>
 
 ###
 
