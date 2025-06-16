@@ -1,10 +1,19 @@
 <h1 align="center"><b>Hi , I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">Isaac M</a> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h2 align="left">👩‍💻 About Me</h2>
+###
+
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">
+✨ I'm a software developer in training with hands-on experience primarily in Java and C#. I've worked on academic and personal projects that emphasize best practices and well-organized code. Currently, I’m focusing on software architecture, learning how to design scalable, clean, and maintainable systems.
+
+📚 I'm also interested in expanding my profile into areas such as DevOps or Big Data, since I'm drawn to both the world of automated deployment and continuous integration, and the analysis of large volumes of data. Even though they are different paths, I'm excited about the possibility of exploring one of them in real-world projects.
+
+🎯 My goal is to continually grow as a developer, build quality software, and work on projects where I can apply what I've learned while embracing new technologies along the way.
+
+</p>
 
 ###
 
