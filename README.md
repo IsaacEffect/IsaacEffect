@@ -11,15 +11,17 @@
 
 <img align="right" width="300" src="https://media.tenor.com/iviIq2uXz-kAAAAi/work-office.gif" alt="working gif"  />
 
-<div style="height: 10px;"></div>
+<div>
+  <br>
+</div>
 
 ###
 
-✨ I'm a software developer in training with hands-on experience primarily in Java and C#. I've worked on academic and personal projects that emphasize best practices and well-organized code. Currently, I’m focusing on software architecture, learning how to design scalable, clean, and maintainable systems.
+&nbsp;&nbsp;&nbsp;✨ I'm a software developer in training with hands-on experience primarily in Java and C#. I've worked on academic and personal projects that emphasize best practices and well-organized code. Currently, I’m focusing on software architecture, learning how to design scalable, clean, and maintainable systems.
 
-📚 I'm also interested in expanding my profile into areas such as DevOps or Big Data, since I'm drawn to both the world of automated deployment and continuous integration, and the analysis of large volumes of data. Even though they are different paths, I'm excited about the possibility of exploring one of them in real-world projects.
+&nbsp;&nbsp;&nbsp;📚 I'm also interested in expanding my profile into areas such as DevOps or Big Data, since I'm drawn to both the world of automated deployment and continuous integration, and the analysis of large volumes of data. Even though they are different paths, I'm excited about the possibility of exploring one of them in real-world projects.
 
-🎯 My goal is to continually grow as a developer, build quality software, and work on projects where I can apply what I've learned while embracing new technologies along the way.
+&nbsp;&nbsp;&nbsp;🎯 My goal is to continually grow as a developer, build quality software, and work on projects where I can apply what I've learned while embracing new technologies along the way.
 
 ###
 
